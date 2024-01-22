@@ -1,0 +1,2 @@
+# lambdaexpressionQusetion10
+lambdaexpressionQusetion10
